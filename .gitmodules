@@ -1,6 +1,6 @@
 [submodule "Loop"]
 	path = Loop
-	url = https://github.com/t1d/Loop.git
+	url = https://github.com/t1dloop/Loop.git
 	branch = hondo
 [submodule "LoopKit"]
 	path = LoopKit
