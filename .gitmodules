@@ -8,16 +8,19 @@
 	branch = hondo
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.com/t1dloop/CGMBLEKit.git
+	branch = hondo
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	url = https://github.com/t1dloop/dexcom-share-client-swift.git
+	branch = hondo
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
-	url = https://github.com/LoopKit/G4ShareSpy.git
+	url = https://github.com/t1dloop/G4ShareSpy.git
+	branch = hondo
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/t1dloop/rileylink_ios.git
