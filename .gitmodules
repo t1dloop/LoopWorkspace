@@ -1,9 +1,11 @@
 [submodule "Loop"]
 	path = Loop
-	url = https://github.com/LoopKit/Loop.git
+	url = https://github.com/t1d/Loop.git
+	branch = hondo
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.com/t1dloop/LoopKit.git
+	branch = hondo
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
@@ -18,7 +20,8 @@
 	url = https://github.com/LoopKit/G4ShareSpy.git
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
+	url = https://github.com/t1dloop/rileylink_ios.git
+	branch = hondo
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
